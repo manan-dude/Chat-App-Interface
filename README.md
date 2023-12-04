@@ -7,12 +7,11 @@
 
 ## Project Description
 
-Mainly focused on react js front-end development. I used css for styling. Also, this application used React Context API and redux for state management.
+Primarily centered on React.js front-end development, I utilized CSS for styling, and the application incorporates the React Context API and Redux for efficient state management.
 
-This chat app has basic chat app functionalities such as login, register, reset password, chat, conversation, group call, contact, starred messages, medial, files and links, settings, profile, edit profile, emoji pickers and etc. We can implement all the features using backend in future. 
+This chat application encompasses fundamental features including login, registration, password reset, real-time chat, conversation management, group calling, contact management, starred messages, media sharing, file and link sharing, as well as settings configuration, user profiles, profile editing, emoji pickers, and more. The integration of these features not only ensures comprehensive functionality but also lays the groundwork for seamless implementation of additional backend features in the future.
 
-You can change theming colors and dark and light modes by clicking settings icon in bottom-left cornaer.
-
+Furthermore, users have the flexibility to personalize their experience by adjusting theming colors and toggling between dark and light modes. This customization can be effortlessly achieved by clicking on the settings icon located in the bottom-left corner of the interface.
 ## What I used
 
 - [React](https://reactjs.org/)
